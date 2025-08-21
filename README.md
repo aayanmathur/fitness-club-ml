@@ -47,3 +47,13 @@ The notebook walks through the **entire ML workflow**, from data preparation to 
 - **Scikit-learn**: preprocessing, modeling, evaluation  
 
 ---
+
+## Future Work
+Hyperparameter tuning for optimized performance
+Experiment with additional algorithms (XGBoost, LightGBM)
+Deploy best model as an API for real-time predictions
+
+---
+
+
+
