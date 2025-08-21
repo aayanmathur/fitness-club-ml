@@ -49,9 +49,9 @@ The notebook walks through the **entire ML workflow**, from data preparation to 
 ---
 
 ## Future Work
-Hyperparameter tuning for optimized performance
-Experiment with additional algorithms (XGBoost, LightGBM)
-Deploy best model as an API for real-time predictions
+- Hyperparameter tuning for optimized performance
+- Experiment with additional algorithms (XGBoost, LightGBM)
+- Deploy best model as an API for real-time predictions
 
 ---
 
